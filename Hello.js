@@ -14,3 +14,5 @@ function culc (a, b, sign) {
 console.log(culc(2, 4, "+"));
 //log2
 console.log(culc(5, 7, "+"));
+//log2
+console.log(culc(7, 6, "+"));
